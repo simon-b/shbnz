@@ -5,6 +5,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 author:
   name: "Simon Bull"
+  avatar: "/assets/images/headshot.jpg"
   bio: "Operations research and data science leader"
   location: "San Francisco"
   email: "simon@shb.nz"
