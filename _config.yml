@@ -1,12 +1,13 @@
 remote_theme: mmistakes/minimal-mistakes
 title: shb.nz
-description: This is a test page
+description: "Operations research and data science"
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 author:
   name: "Simon Bull"
-  bio: "Data science consultant."
-  location: "Denmark"
+  bio: "Operations research and data science leader"
+  location: "San Francisco"
+  email: "simon@shb.nz"
 
 include: ["_pages"]
 
